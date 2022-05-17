@@ -9,3 +9,16 @@ The mainboard contains the two high-power linear MOSFETs, the reverse polarity p
 Finally, the front panel IO board will house the vacuum fluorescent display, soft-touch push buttons, LED's, and rotary encoder.
 
 Future plans for this project include a revamped, fully isolated analog section, a new MCU with improved software, and a MOSFET-based reverse polarity protection circuit.
+
+Project Progress: 
+
+Initial test Perf boards: 
+
+![IMG_2087](https://user-images.githubusercontent.com/11001357/168873162-a770f7fc-e190-459c-ba97-7c15927525d5.jpeg)
+
+![IMG_2088](https://user-images.githubusercontent.com/11001357/168873222-10be59ba-3d28-4e7b-a442-4783fe7d613c.jpeg)
+
+Current PCB Assembly with custom controller: 
+
+![IMG_2207](https://user-images.githubusercontent.com/11001357/168873283-be232a22-0ec8-4f3f-add3-230e766d1f71.jpeg)
+
